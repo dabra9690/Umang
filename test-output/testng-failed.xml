@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Test.T001_LOGIN">
+      <class name="com.umang.base.Base">
         <methods>
-          <include name="Login"/>
+          <include name="launchapp"/>
         </methods>
-      </class> <!-- Test.T001_LOGIN -->
+      </class> <!-- com.umang.base.Base -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
