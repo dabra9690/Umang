@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-18T16:06:09 IST" name="Default suite" finished-at="2024-03-18T16:06:15 IST" duration-ms="5995">
+  <suite started-at="2024-03-19T14:49:43 IST" name="Default suite" finished-at="2024-03-19T14:49:50 IST" duration-ms="7370">
     <groups>
     </groups>
-    <test started-at="2024-03-18T16:06:09 IST" name="Default test" finished-at="2024-03-18T16:06:15 IST" duration-ms="5995">
+    <test started-at="2024-03-19T14:49:43 IST" name="Default test" finished-at="2024-03-19T14:49:50 IST" duration-ms="7370">
       <class name="com.umang.base.Base">
-        <test-method is-config="true" signature="loadconfig()[pri:0, instance:com.umang.base.Base@6b00f608]" started-at="2024-03-18T16:06:10 IST" name="loadconfig" finished-at="2024-03-18T16:06:10 IST" duration-ms="16" status="PASS">
+        <test-method is-config="true" signature="loadconfig()[pri:0, instance:com.umang.base.Base@6b00f608]" started-at="2024-03-19T14:49:43 IST" name="loadconfig" finished-at="2024-03-19T14:49:43 IST" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadconfig -->
-        <test-method signature="launchapp()[pri:0, instance:com.umang.base.Base@6b00f608]" started-at="2024-03-18T16:06:10 IST" name="launchapp" finished-at="2024-03-18T16:06:15 IST" duration-ms="5924" status="PASS">
+        <test-method signature="launchapp()[pri:0, instance:com.umang.base.Base@6b00f608]" started-at="2024-03-19T14:49:43 IST" name="launchapp" finished-at="2024-03-19T14:49:50 IST" duration-ms="7291" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchapp -->
